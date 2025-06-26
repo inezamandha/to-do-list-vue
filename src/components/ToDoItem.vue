@@ -75,13 +75,13 @@ input[type='checkbox'] {
 }
 
 .text {
-  font-size: 16px;
+  font-size: 14px;
   text-align: start;
 }
 
 .due {
-  font-size: 14px;
-  min-width: 125px;
+  font-size: 12px;
+  min-width: 90px;;
   text-align: end;
 }
 
@@ -96,5 +96,16 @@ button {
 .fas.fa-calendar-alt {
   margin-right: 4px;
   color: #444;
+}
+
+@media (min-width: 480px) {
+  .text {
+    font-size: 16px;
+  }
+
+  .due {
+    font-size: 14px;
+    min-width: 125px;
+  }
 }
 </style>
