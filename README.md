@@ -1,35 +1,34 @@
-# to-do-list
+# ✅ Vue 3 To-Do List
 
-This template should help get you started developing with Vue 3 in Vite.
+A minimalist and responsive To-Do List app built with **Vue 3** and **Vite**.  
+Easily manage tasks with due dates, toggle their completion, and enjoy a clean UI with mobile-friendly design.
 
-## Recommended IDE Setup
+---
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## ✨ Features
 
-## Customize configuration
+- Built using **Vue 3 Composition API**
+- Add, complete, and remove tasks
+- Set due dates with a custom calendar icon
+- Responsive form layout (mobile & desktop)
+- Clean UI with a focus on simplicity
+- Empty state message when no tasks available
+- Keyboard-friendly and accessible
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+---
 
-## Project Setup
+## 🛠 Project Setup
 
-```sh
+### Install dependencies
+
+```bash
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+## 🛠 Project Commands
 
-```sh
+### Start development server with hot reload
+
+```bash
 npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
 ```
