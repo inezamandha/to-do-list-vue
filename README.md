@@ -3,6 +3,8 @@
 A minimalist and responsive To-Do List app built with **Vue 3** and **Vite**.  
 Easily manage tasks with due dates, toggle their completion, and enjoy a clean UI with mobile-friendly design.
 
+<img src="./src/assets/to-do-list.png" alt="to-do list preview" width="400" />
+
 ---
 
 ## ✨ Features
